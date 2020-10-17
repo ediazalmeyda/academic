@@ -3,6 +3,6 @@ title_html: "Erika <b>Diaz-Almeyda</b>"
 baseurl: "/"
 url: ""
 
-author:
-  picture: /assets/images/profile.jpg
-  email: email@domain.com
+# Author
+picture: /assets/images/profile.jpg
+email: email@domain.com
